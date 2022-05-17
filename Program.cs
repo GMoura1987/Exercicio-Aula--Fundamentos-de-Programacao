@@ -8,11 +8,11 @@ namespace Execercloop10
 
     class Program
     {
-        static double calculoEquacao(double num)  // variável num é a escolha do usuário, que delimita o valor de N na equação
+        static double calculoEquacao(double num)  // variável num é a escolha do usuário, que é o valor de N na equação
         {
             double E, num1, fatorial;
 
-            E = 2;              // E começa com o valor 2 por que no ínicio 1/1! = 1, então o início da equação já está calculado 
+            E = 2;              // E = 2 o ínicio da equação 1 + 1/1! = 2, então o início da equação já está calculado 
             num1 = 1;                 
             fatorial = 1;
 
