@@ -1,0 +1,15 @@
+D:\curso de logica de programação\relacionais 61\Exercicio17\obj\Debug\net6.0\Exercicio17.csproj.AssemblyReference.cache
+D:\curso de logica de programação\relacionais 61\Exercicio17\obj\Debug\net6.0\Exercicio17.GeneratedMSBuildEditorConfig.editorconfig
+D:\curso de logica de programação\relacionais 61\Exercicio17\obj\Debug\net6.0\Exercicio17.AssemblyInfoInputs.cache
+D:\curso de logica de programação\relacionais 61\Exercicio17\obj\Debug\net6.0\Exercicio17.AssemblyInfo.cs
+D:\curso de logica de programação\relacionais 61\Exercicio17\obj\Debug\net6.0\Exercicio17.csproj.CoreCompileInputs.cache
+D:\curso de logica de programação\relacionais 61\Exercicio17\bin\Debug\net6.0\Exercicio17.exe
+D:\curso de logica de programação\relacionais 61\Exercicio17\bin\Debug\net6.0\Exercicio17.deps.json
+D:\curso de logica de programação\relacionais 61\Exercicio17\bin\Debug\net6.0\Exercicio17.runtimeconfig.json
+D:\curso de logica de programação\relacionais 61\Exercicio17\bin\Debug\net6.0\Exercicio17.dll
+D:\curso de logica de programação\relacionais 61\Exercicio17\bin\Debug\net6.0\Exercicio17.pdb
+D:\curso de logica de programação\relacionais 61\Exercicio17\obj\Debug\net6.0\Exercicio17.dll
+D:\curso de logica de programação\relacionais 61\Exercicio17\obj\Debug\net6.0\refint\Exercicio17.dll
+D:\curso de logica de programação\relacionais 61\Exercicio17\obj\Debug\net6.0\Exercicio17.pdb
+D:\curso de logica de programação\relacionais 61\Exercicio17\obj\Debug\net6.0\Exercicio17.genruntimeconfig.cache
+D:\curso de logica de programação\relacionais 61\Exercicio17\obj\Debug\net6.0\ref\Exercicio17.dll
